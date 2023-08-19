@@ -36,7 +36,7 @@ I'm a versatile full stack developer with hands-on experience in various technol
 
 - Bachelor of Technology (B.Tech) in Computer Science and Engineering
   - [Indian Institute of Information Technology (IIIT), Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)
-  - Expected Graduation: July, 2024
+  - Expected Graduation: July, 2026
 
 
 ## 🧑‍💻 Skills
