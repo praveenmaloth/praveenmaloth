@@ -19,14 +19,12 @@ Hello there! 👋 I'm [praveen maloth](https://praveenmaloth.github.io), a passi
 ```yaml
 My Profile
 -----------------------------------------------------------
-Name      : maloth praveen Kumar.
+Name      : Praveen Maloth.
 WhoamI    : Student 🏫.
 Gender    : Male.
 Location  : Telangana, India.
 Hobbies   : Gaming, Coding , listening music 🎶.
 Languages : Bash,C Lang, C++, Python, NodeJS , Typescript.
-Learning  : Java, Kotlin.
-Telegram  : @praveenmaloth.
 ```
 
 
@@ -42,8 +40,8 @@ I'm a versatile full stack developer with hands-on experience in various technol
 ## 🧑‍💻 Skills
 
 - **Languages**: C and C++ , JavaScript, TypeScript, Python
-- **Frontend**: React.js, Next.js, HTML, CSS
-- **Backend**: Node.js, Express.js, Python Flask
+- **Frontend**: React.js, HTML, CSS
+- **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Version Control**: Git
