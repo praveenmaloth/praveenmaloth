@@ -47,7 +47,7 @@ I'm a versatile full stack developer with hands-on experience in various technol
 - **Version Control**: Git
 - **Tools**: VS Code
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,typescript,js,css,html,bash,linux,git,androidstudio,java,githubactions&perline=7" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,typescript,js,css,html,git,githubactions&perline=7" alt="My Skills"/>
 
 [![praveenmaloth's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveenmaloth&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/praveenmaloth/)
   
