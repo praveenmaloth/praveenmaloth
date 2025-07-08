@@ -10,10 +10,6 @@ Hello there! 👋 I'm [praveen maloth](https://praveenmaloth.github.io), a passi
 
 ## ⭐ About Me
 
-```zsh
-> neofetch
-```
-
 <img align="left" src="https://avatars.githubusercontent.com/u/140435050?v=4" width="150px" height="220px"/> 
 
 ```yaml
@@ -24,7 +20,7 @@ WhoamI    : Student 🏫.
 Gender    : Male.
 Location  : Telangana, India.
 Hobbies   : Gaming, Coding , listening music 🎶.
-Languages : Bash,C Lang, C++, Python, NodeJS , Typescript.
+Languages : C Lang, C++, Python, NodeJS , Typescript.
 ```
 
 
