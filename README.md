@@ -51,94 +51,31 @@ I'm a versatile full stack developer with hands-on experience in various technol
 
 [![praveenmaloth's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveenmaloth&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/praveenmaloth/)
   
-## 🚀 Projects
-<!--
-
-Throughout my journey, I have actively worked on various projects and contributed to the developer community. Here are some of my notable projects:
-
-### 1. [truecallerjs](https://github.com/praveenmaloth/truecallerjs)
-
-  - **Description**:  truecallerjs is a lightweight npm package that allows users to perform reverse phone number lookups using the Truecaller API. It simplifies the process of querying and handling Truecaller data, providing a seamless experience for developers.
-
-  - **Technologies**: Typescript, Axios
-    
-<a href="https://github.com/praveenmaloth/truecallerjs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/praveenmaloth/truecallerjs" alt="TruecallerJS" width="400" >
-</a>
-
-
-
-### 2. [truecallerpy](https://github.com/praveenmaloth/truecallerjs)
-
-  - **Description**: TruecallerPy is a Python package that provides functionalities to interact with the Truecaller API.
-
-  - **Technologies**: Python, JSON
-
-<a href="https://github.com/praveenmaloth/truecallerpy">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/praveenmaloth/truecallerpy" alt="Truecallerpy" width="400" >
-</a>
-
-### 3. [json-to-plain-text](https://github.com/praveenmaloth/json-to-plain-text)
-
-  - **Description**:  json-to-plain-text is a npm module that converts JSON-like data or plain JavaScript objects to a formatted plain text representation.
-
-  - **Technologies**: Node.js
-    
-<a href="https://github.com/praveenmaloth/json-to-plain-text">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/praveenmaloth/json-to-plain-text" alt="json-to-plain-text" width="400" >
-</a>
-
-
-### 4. [bhimupijs](https://github.com/praveenmaloth/bhimupijs)
-
-  - **Description**:  BHIMUPIJS is a npm module which can validate, verify and generate QR Codes for UPI IDs.
-
-  - **Technologies**: Node.js
-
-<a href="https://github.com/praveenmaloth/bhimupijs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/praveenmaloth/bhimupijs" alt="bhimupijs" width="400" >
-</a>
-
-
-<ins>[and more](https://github.com/praveenmaloth?tab=repositories)</ind>
-
-Feel free to explore my other repositories for more projects, including experiments, utilities, and prototypes.
--->
-
-## 🤝 Open Source Contributions
-
-Apart from the projects mentioned above, I'm also trying to contribute to open source projects.
-
-<!--
-🛠
-## Hackathons and Competitions
-
-- [Hackathon/Competition 1]: Description, [Year]
-- [Hackathon/Competition 2]: Description, [Year]
+<!--## 🚀 Projects 
 
 ## 😜 Fun Facts
 
-- Add a fun fact about yourself!
+- Add a fun fact about yourself! -->
 
 ## ❣️ Interests
 
-Apart from coding, I love hiking, playing guitar, and trying out new recipes.
+Apart from coding, I love hiking , sleeping and playing cricket . 
 
 
-## 👑 Achievements
+<!--## 👑 Achievements
 
 - [Award/Achievement 1]: Description
 - [Award/Achievement 2]: Description
 
 -->
 
-## ✨ Code Stats
+<!--## ✨ Code Stats
 
   <p align = "center">
     <a href="https://github.com/praveenmaloth"><img alt="praveenmaloth's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=praveenmaloth&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
     <a href="https://github.com/praveenmaloth"><img alt="praveenmaloth's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=praveenmaloth&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
     <a href="https://github.com/praveenmaloth"><img alt="praveenmaloth's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=praveenmaloth&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
-  </p>
+  </p> -->
   
 
-Thank you for visiting my profile. Let's connect and collaborate! Happy coding! 🚀
+Thank you for visiting my profile. Let's connect and collaborate! Happy coding! 
